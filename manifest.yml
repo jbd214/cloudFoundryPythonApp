@@ -1,0 +1,7 @@
+applications:
+- disk_quota: 1024M
+  host: my-python-app101
+  name: My Python App101
+  path: .
+  instances: 1
+  memory: 128M
